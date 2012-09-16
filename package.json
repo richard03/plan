@@ -1,0 +1,28 @@
+{
+  "name": "plan",
+  "version": "0.1.0",
+  "author": "richard03 <richard@prokoho.cz>",
+  "description": "synchronization of multiple asynchronous functions - allows parallel or serial execution",
+  "contributors": [
+    {
+      "name": "Richard Šerý",
+      "email": "richard03@prokoho.cz"
+    }
+  ],
+  "main": "./src/plan.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richard03/plan.git"
+  },
+  "keywords": [
+    "plan",
+    "task",
+    "step",
+	"synchronization",
+	"callbacks"
+  ],
+  "license": "CC BY 3.0",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
